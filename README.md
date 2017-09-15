@@ -9,7 +9,7 @@ I have learnt **object oriented programming(OOP)** in both **Java and C++**. The
 - Included features such as registering or dropping courses, swapping course indexes, viewing timetable, alerting class clashes, adding to the wait-list if a certain class is full etc.
 - 90% similar to the actual system's functionality except it is console-based for user's input and output.
 
-Refer to Coursework Project Report for more details. For the project demonstration video : https://youtu.be/l5BMhGPDBAA 
+Refer to ``Coursework Project Report`` for more details. For the ``project demonstration video`` : https://youtu.be/l5BMhGPDBAA 
 
 **Disclaimer : The Java code used to build the coursework project is no longer maintained. There may be errors or bugs that did not exist at the time of creation.**
 
