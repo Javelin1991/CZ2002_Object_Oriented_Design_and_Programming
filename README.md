@@ -1,6 +1,6 @@
 # CZ2002 : Object Oriented Design and Programming
 
-## Brief Description
+## Learning Outcome
 I have learnt **object oriented programming(OOP)** in both **Java and C++**. The coursework includes a group project where our group has accomplished building a functional **university course registration system (console-based app)** by applying various **OOP design patterns and concepts**. 
 
 ## Coursework Group Project
