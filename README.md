@@ -11,6 +11,8 @@ I have learnt **object oriented programming(OOP)** in both **Java and C++**. The
 
 Refer to Coursework Project Report for more details. For the project demonstration video : https://youtu.be/l5BMhGPDBAA 
 
+**Disclaimer : The Java code used to build the coursework project is no longer maintained. There may be errors or bugs that did not exist at the time of creation.**
+
 
 ## Knowledge Accquired includes: 
 
