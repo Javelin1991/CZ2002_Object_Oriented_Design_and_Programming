@@ -8,6 +8,7 @@ I have learnt **object oriented programming(OOP)** in both **Java and C++**. The
 - Replicated STARS, the NTU ``course registration system(console-based)`` using various ``OOP design`` and ``concepts``
 - Included features such as registering or dropping courses, swapping course indexes, viewing timetable, alerting class clashes, adding to the wait-list if a certain class is full etc.
 - 90% similar to the actual system's functionality except it is console-based for user's input and output.
+- the storage of data is local and utilizes serialization (i.e. the process of translating data structures or object state into a format that can be stored)
 
 Refer to ``Coursework Project Report`` for more details. For the ``project demonstration video`` : https://youtu.be/l5BMhGPDBAA 
 
